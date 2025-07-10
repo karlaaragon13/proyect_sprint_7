@@ -1,6 +1,3 @@
-# proyect_sprint_7
-Mi proyecto del Sprint 7
-
 # Análisis de Anuncios de Vehículos en EE.UU.
 Esta es una aplicación web interactiva creada con Streamlit para analizar un conjunto de datos de anuncios de venta de vehículos usados en Estados Unidos.
 
@@ -20,3 +17,6 @@ Esta es una aplicación web interactiva creada con Streamlit para analizar un co
 - streamlit
 - pandas
 - plotly-express
+
+---
+✍️ *Proyecto desarrollado como parte de mi formación en científica de datos.*
